@@ -41,3 +41,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+target/maven-archiver/pom.properties
+target/classes/com/undeadscythes/superscribe/Scribe.class
+target/SuperScribe-1.0.jar
